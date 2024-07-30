@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Core\\TasksApi7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|d:\\core\\tasksapi7\\tasksapi7\\model\\deletetaskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|solutionrelative:tasksapi7\\model\\deletetaskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|d:\\core\\tasksapi7\\tasksapi7\\model\\gettasksresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|solutionrelative:tasksapi7\\model\\gettasksresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|d:\\core\\tasksapi7\\tasksapi7\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|solutionrelative:tasksapi7\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|d:\\core\\tasksapi7\\tasksapi7\\entities\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|solutionrelative:tasksapi7\\entities\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|d:\\core\\tasksapi7\\tasksapi7\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|solutionrelative:tasksapi7\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|d:\\core\\tasksapi7\\tasksapi7\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|solutionrelative:tasksapi7\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|d:\\core\\tasksapi7\\tasksapi7\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|solutionrelative:tasksapi7\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|d:\\core\\tasksapi7\\tasksapi7\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|solutionrelative:tasksapi7\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|d:\\core\\tasksapi7\\tasksapi7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|solutionrelative:tasksapi7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|d:\\core\\tasksapi7\\tasksapi7\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|solutionrelative:tasksapi7\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|d:\\core\\tasksapi7\\tasksapi7\\context\\tasksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|solutionrelative:tasksapi7\\context\\tasksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|d:\\core\\tasksapi7\\tasksapi7\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|solutionrelative:tasksapi7\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|d:\\core\\tasksapi7\\tasksapi7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|solutionrelative:tasksapi7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|d:\\core\\tasksapi7\\tasksapi7\\migrations\\20240116135640_newfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF0037-783D-4A5F-A77C-E59D3528175C}|TasksApi7\\TasksApi7.csproj|solutionrelative:tasksapi7\\migrations\\20240116135640_newfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 322,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetTasksResponse.cs",
+              "DocumentMoniker": "D:\\Core\\TasksApi7\\TasksApi7\\Model\\GetTasksResponse.cs",
+              "RelativeDocumentMoniker": "TasksApi7\\Model\\GetTasksResponse.cs",
+              "ToolTip": "D:\\Core\\TasksApi7\\TasksApi7\\Model\\GetTasksResponse.cs",
+              "RelativeToolTip": "TasksApi7\\Model\\GetTasksResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:20:43.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteTaskResponse.cs",
+              "DocumentMoniker": "D:\\Core\\TasksApi7\\TasksApi7\\Model\\DeleteTaskResponse.cs",
+              "RelativeDocumentMoniker": "TasksApi7\\Model\\DeleteTaskResponse.cs",
+              "ToolTip": "D:\\Core\\TasksApi7\\TasksApi7\\Model\\DeleteTaskResponse.cs",
+              "RelativeToolTip": "TasksApi7\\Model\\DeleteTaskResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:20:41.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "D:\\Core\\TasksApi7\\TasksApi7\\Entities\\Tasks.cs",
+              "RelativeDocumentMoniker": "TasksApi7\\Entities\\Tasks.cs",
+              "ToolTip": "D:\\Core\\TasksApi7\\TasksApi7\\Entities\\Tasks.cs",
+              "RelativeToolTip": "TasksApi7\\Entities\\Tasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:20:33.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\Core\\TasksApi7\\TasksApi7\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "TasksApi7\\Entities\\RefreshToken.cs",
+              "ToolTip": "D:\\Core\\TasksApi7\\TasksApi7\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "TasksApi7\\Entities\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:20:32.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "D:\\Core\\TasksApi7\\TasksApi7\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "TasksApi7\\Controllers\\BaseApiController.cs",
+              "ToolTip": "D:\\Core\\TasksApi7\\TasksApi7\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "TasksApi7\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:08:25.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Core\\TasksApi7\\TasksApi7\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "TasksApi7\\Service\\IUserService.cs",
+              "ToolTip": "D:\\Core\\TasksApi7\\TasksApi7\\Service\\IUserService.cs",
+              "RelativeToolTip": "TasksApi7\\Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:12:56.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Core\\TasksApi7\\TasksApi7\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "TasksApi7\\Service\\UserService.cs",
+              "ToolTip": "D:\\Core\\TasksApi7\\TasksApi7\\Service\\UserService.cs",
+              "RelativeToolTip": "TasksApi7\\Service\\UserService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowCkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:20:35.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\Core\\TasksApi7\\TasksApi7\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TasksApi7\\Controllers\\TasksController.cs",
+              "ToolTip": "D:\\Core\\TasksApi7\\TasksApi7\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TasksApi7\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:44:38.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Core\\TasksApi7\\TasksApi7\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TasksApi7\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Core\\TasksApi7\\TasksApi7\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TasksApi7\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAIwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:44:31.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Core\\TasksApi7\\TasksApi7\\appsettings.json",
+              "RelativeDocumentMoniker": "TasksApi7\\appsettings.json",
+              "ToolTip": "D:\\Core\\TasksApi7\\TasksApi7\\appsettings.json",
+              "RelativeToolTip": "TasksApi7\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-06T05:53:13.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Core\\TasksApi7\\TasksApi7\\Program.cs",
+              "RelativeDocumentMoniker": "TasksApi7\\Program.cs",
+              "ToolTip": "D:\\Core\\TasksApi7\\TasksApi7\\Program.cs",
+              "RelativeToolTip": "TasksApi7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:48:18.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TasksDbContext.cs",
+              "DocumentMoniker": "D:\\Core\\TasksApi7\\TasksApi7\\Context\\TasksDbContext.cs",
+              "RelativeDocumentMoniker": "TasksApi7\\Context\\TasksDbContext.cs",
+              "ToolTip": "D:\\Core\\TasksApi7\\TasksApi7\\Context\\TasksDbContext.cs",
+              "RelativeToolTip": "TasksApi7\\Context\\TasksDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:25:25.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Core\\TasksApi7\\TasksApi7\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TasksApi7\\Entities\\User.cs",
+              "ToolTip": "D:\\Core\\TasksApi7\\TasksApi7\\Entities\\User.cs",
+              "RelativeToolTip": "TasksApi7\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:24:36.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240116135640_newfiles.cs",
+              "DocumentMoniker": "D:\\Core\\TasksApi7\\TasksApi7\\Migrations\\20240116135640_newfiles.cs",
+              "RelativeDocumentMoniker": "TasksApi7\\Migrations\\20240116135640_newfiles.cs",
+              "ToolTip": "D:\\Core\\TasksApi7\\TasksApi7\\Migrations\\20240116135640_newfiles.cs",
+              "RelativeToolTip": "TasksApi7\\Migrations\\20240116135640_newfiles.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:24:07.61Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 78,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
