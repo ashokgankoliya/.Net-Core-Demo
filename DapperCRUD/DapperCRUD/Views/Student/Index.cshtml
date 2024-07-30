@@ -1,0 +1,32 @@
+﻿@model DapperCRUD.ViewModel.StudentViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1> <a href="Student/InsertUpdate/0">Add New</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>City</th>
+            <th>Date</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.StudentsList)
+        {
+            <tr>
+                <td>@item.StudentId</td>
+                <td>@item.FullName</td>
+                <td>@item.EmailAddress</td>
+                <td>@item.City</td>
+                <td>@item.CreateDate.ToString("dd-MM-yyyy")</td>
+                <td><a href="Student/InsertUpdate/@item.StudentId">Update</a> || <a href="Student/DeleteStudent/@item.StudentId">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

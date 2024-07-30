@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Core\\DapperCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F3DB5C-A35D-49A3-9C53-F5211BCDF9B9}|DapperCRUD\\DapperCRUD.csproj|d:\\project\\core\\dappercrud\\dappercrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0F3DB5C-A35D-49A3-9C53-F5211BCDF9B9}|DapperCRUD\\DapperCRUD.csproj|solutionrelative:dappercrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F3DB5C-A35D-49A3-9C53-F5211BCDF9B9}|DapperCRUD\\DapperCRUD.csproj|d:\\project\\core\\dappercrud\\dappercrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F3DB5C-A35D-49A3-9C53-F5211BCDF9B9}|DapperCRUD\\DapperCRUD.csproj|solutionrelative:dappercrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F3DB5C-A35D-49A3-9C53-F5211BCDF9B9}|DapperCRUD\\DapperCRUD.csproj|d:\\project\\core\\dappercrud\\dappercrud\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F3DB5C-A35D-49A3-9C53-F5211BCDF9B9}|DapperCRUD\\DapperCRUD.csproj|solutionrelative:dappercrud\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F3DB5C-A35D-49A3-9C53-F5211BCDF9B9}|DapperCRUD\\DapperCRUD.csproj|d:\\project\\core\\dappercrud\\dappercrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F3DB5C-A35D-49A3-9C53-F5211BCDF9B9}|DapperCRUD\\DapperCRUD.csproj|solutionrelative:dappercrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F3DB5C-A35D-49A3-9C53-F5211BCDF9B9}|DapperCRUD\\DapperCRUD.csproj|d:\\project\\core\\dappercrud\\dappercrud\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F3DB5C-A35D-49A3-9C53-F5211BCDF9B9}|DapperCRUD\\DapperCRUD.csproj|solutionrelative:dappercrud\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F3DB5C-A35D-49A3-9C53-F5211BCDF9B9}|DapperCRUD\\DapperCRUD.csproj|d:\\project\\core\\dappercrud\\dappercrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F3DB5C-A35D-49A3-9C53-F5211BCDF9B9}|DapperCRUD\\DapperCRUD.csproj|solutionrelative:dappercrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F3DB5C-A35D-49A3-9C53-F5211BCDF9B9}|DapperCRUD\\DapperCRUD.csproj|d:\\project\\core\\dappercrud\\dappercrud\\services\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F3DB5C-A35D-49A3-9C53-F5211BCDF9B9}|DapperCRUD\\DapperCRUD.csproj|solutionrelative:dappercrud\\services\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 322,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Project\\Core\\DapperCRUD\\DapperCRUD\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DapperCRUD\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Project\\Core\\DapperCRUD\\DapperCRUD\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DapperCRUD\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:21:15.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentServices.cs",
+              "DocumentMoniker": "D:\\Project\\Core\\DapperCRUD\\DapperCRUD\\Services\\IStudentServices.cs",
+              "RelativeDocumentMoniker": "DapperCRUD\\Services\\IStudentServices.cs",
+              "ToolTip": "D:\\Project\\Core\\DapperCRUD\\DapperCRUD\\Services\\IStudentServices.cs",
+              "RelativeToolTip": "DapperCRUD\\Services\\IStudentServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:03:03.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.cs",
+              "DocumentMoniker": "D:\\Project\\Core\\DapperCRUD\\DapperCRUD\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "DapperCRUD\\Models\\Students.cs",
+              "ToolTip": "D:\\Project\\Core\\DapperCRUD\\DapperCRUD\\Models\\Students.cs",
+              "RelativeToolTip": "DapperCRUD\\Models\\Students.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:38:49.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "D:\\Project\\Core\\DapperCRUD\\DapperCRUD\\Services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "DapperCRUD\\Services\\StudentServices.cs",
+              "ToolTip": "D:\\Project\\Core\\DapperCRUD\\DapperCRUD\\Services\\StudentServices.cs",
+              "RelativeToolTip": "DapperCRUD\\Services\\StudentServices.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAxwCkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:31:00.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Project\\Core\\DapperCRUD\\DapperCRUD\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "DapperCRUD\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Project\\Core\\DapperCRUD\\DapperCRUD\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "DapperCRUD\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:28:25.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\Core\\DapperCRUD\\DapperCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "DapperCRUD\\appsettings.json",
+              "ToolTip": "D:\\Project\\Core\\DapperCRUD\\DapperCRUD\\appsettings.json",
+              "RelativeToolTip": "DapperCRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T09:29:46.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\Core\\DapperCRUD\\DapperCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "DapperCRUD\\Program.cs",
+              "ToolTip": "D:\\Project\\Core\\DapperCRUD\\DapperCRUD\\Program.cs",
+              "RelativeToolTip": "DapperCRUD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:28:22.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 78,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
