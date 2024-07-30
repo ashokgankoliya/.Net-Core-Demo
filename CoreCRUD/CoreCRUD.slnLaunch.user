@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "CoreCRUD\\CoreCRUD.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "APIProject\\APIProject.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
