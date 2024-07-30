@@ -1,0 +1,17 @@
+<Exception>
+<DateTime>3/16/2024 9:27:40 AM</DateTime>
+<SessionID>p551evhzd3hdicaryljl03xj</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Conversion from string "New Awb  <b>" to type 'Double' is not valid.</ErrorMessage>
+<InnerException>System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToDouble(String Value, NumberFormatInfo NumberFormat)</InnerException>
+</Exception>
+

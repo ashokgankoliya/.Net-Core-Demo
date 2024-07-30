@@ -1,0 +1,42 @@
+<Exception>
+<DateTime>12/27/2023 8:20:48 AM</DateTime>
+<SessionID>5fldrkpsys1vp0tozldkci3w</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintAgeingReport</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Accounts</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The operation has timed out</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>12/27/2023 5:38:37 PM</DateTime>
+<SessionID>isjk5g53h1wrubfi5qi3nw3x</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::PrintInvoiceReport</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintInvoiceReport</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>String was not recognized as a valid DateTime.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>12/27/2023 5:39:02 PM</DateTime>
+<SessionID>isjk5g53h1wrubfi5qi3nw3x</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::PrintInvoiceReport</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintInvoiceReport</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>String was not recognized as a valid DateTime.</ErrorMessage>
+</Exception>
+

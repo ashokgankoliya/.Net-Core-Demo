@@ -1,0 +1,112 @@
+<Exception>
+<DateTime>2/2/2024 11:27:46 AM</DateTime>
+<SessionID>4wf1jlchkela3kydkjcuwr0j</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Incorrect syntax near 'them'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/2/2024 11:27:49 AM</DateTime>
+<SessionID>4wf1jlchkela3kydkjcuwr0j</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Incorrect syntax near 'them'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/2/2024 11:28:14 AM</DateTime>
+<SessionID>4wf1jlchkela3kydkjcuwr0j</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Incorrect syntax near 'them'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/2/2024 11:47:13 AM</DateTime>
+<SessionID>4wf1jlchkela3kydkjcuwr0j</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Incorrect syntax near 'them'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/2/2024 11:51:09 AM</DateTime>
+<SessionID>4wf1jlchkela3kydkjcuwr0j</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Incorrect syntax near 'them'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/2/2024 11:54:25 AM</DateTime>
+<SessionID>4wf1jlchkela3kydkjcuwr0j</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Incorrect syntax near 'them'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/2/2024 11:57:38 AM</DateTime>
+<SessionID>4wf1jlchkela3kydkjcuwr0j</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Incorrect syntax near 'them'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/2/2024 12:06:25 PM</DateTime>
+<SessionID>4wf1jlchkela3kydkjcuwr0j</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Incorrect syntax near 'them'.</ErrorMessage>
+</Exception>
+

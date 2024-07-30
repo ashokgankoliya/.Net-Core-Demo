@@ -1,0 +1,278 @@
+<Exception>
+<DateTime>2/1/2024 10:50:53 AM</DateTime>
+<SessionID>1zwvunt5mteu51wskvzqfnds</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>ValidatePasscode</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/SoldonPoq</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Column 'POQID' does not belong to table .</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/1/2024 10:50:57 AM</DateTime>
+<SessionID>1zwvunt5mteu51wskvzqfnds</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>ValidatePasscode</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/SoldonPoq</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Column 'POQID' does not belong to table .</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/1/2024 10:51:17 AM</DateTime>
+<SessionID>1zwvunt5mteu51wskvzqfnds</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>ValidatePasscode</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/SoldonPoq</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Column 'POQID' does not belong to table .</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/1/2024 10:55:17 AM</DateTime>
+<SessionID>1zwvunt5mteu51wskvzqfnds</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>ValidatePasscode</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/SoldonPoq</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Column 'POQID' does not belong to table .</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/1/2024 10:59:01 AM</DateTime>
+<SessionID>1zwvunt5mteu51wskvzqfnds</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>ValidatePasscode</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/SoldonPoq</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Column 'POQID' does not belong to table .</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/1/2024 11:00:05 AM</DateTime>
+<SessionID>1zwvunt5mteu51wskvzqfnds</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetViewSPORDInvoices</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/SoldonPoq</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function 'spGetViewSPORDPOQTransforGrid' expects parameter '@SpordSqlid', which was not supplied.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/1/2024 11:00:17 AM</DateTime>
+<SessionID>1zwvunt5mteu51wskvzqfnds</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetViewSPORDInvoices</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/SoldonPoq</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function 'spGetViewSPORDPOQTransforGrid' expects parameter '@SpordSqlid', which was not supplied.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/1/2024 11:12:44 AM</DateTime>
+<SessionID>1zwvunt5mteu51wskvzqfnds</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetPage</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPage</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Error executing child request for handler 'System.Web.UI.Page'.</ErrorMessage>
+<InnerException>System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object variable or With block variable not set.
+   at Microsoft.VisualBasic.CompilerServices.Symbols.Container..ctor(Object Instance)
+   at Microsoft.VisualBasic.CompilerServices.NewLateBinding.LateGet(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack)
+   at ASP.pages_pageordersaveprocess_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) in E:\DevOps\NEW-Repository\dflower\EmotionGrowers\pages\PageOrderSaveProcess.ascx:line 4535
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Page.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>2/1/2024 11:18:03 AM</DateTime>
+<SessionID>1zwvunt5mteu51wskvzqfnds</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetPage</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPage</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Error executing child request for handler 'System.Web.UI.Page'.</ErrorMessage>
+<InnerException>System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object variable or With block variable not set.
+   at Microsoft.VisualBasic.CompilerServices.Symbols.Container..ctor(Object Instance)
+   at Microsoft.VisualBasic.CompilerServices.NewLateBinding.LateGet(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack)
+   at ASP.pages_pagespord_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) in E:\DevOps\NEW-Repository\dflower\EmotionGrowers\pages\PageSPORD.ascx:line 2976
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Page.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>2/1/2024 11:18:03 AM</DateTime>
+<SessionID>1zwvunt5mteu51wskvzqfnds</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetPage</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPage</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Error executing child request for handler 'System.Web.UI.Page'.</ErrorMessage>
+<InnerException>System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object variable or With block variable not set.
+   at Microsoft.VisualBasic.CompilerServices.Symbols.Container..ctor(Object Instance)
+   at Microsoft.VisualBasic.CompilerServices.NewLateBinding.LateGet(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack)
+   at ASP.pages_pagespord_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) in E:\DevOps\NEW-Repository\dflower\EmotionGrowers\pages\PageSPORD.ascx:line 2976
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Page.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>2/1/2024 11:18:03 AM</DateTime>
+<SessionID>1zwvunt5mteu51wskvzqfnds</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetPage</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPage</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Error executing child request for handler 'System.Web.UI.Page'.</ErrorMessage>
+<InnerException>System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object variable or With block variable not set.
+   at Microsoft.VisualBasic.CompilerServices.Symbols.Container..ctor(Object Instance)
+   at Microsoft.VisualBasic.CompilerServices.NewLateBinding.LateGet(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack)
+   at ASP.pages_pagespord_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) in E:\DevOps\NEW-Repository\dflower\EmotionGrowers\pages\PageSPORD.ascx:line 2976
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Page.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>2/1/2024 12:17:29 PM</DateTime>
+<SessionID>1zwvunt5mteu51wskvzqfnds</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetPage</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPage</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Error executing child request for handler 'System.Web.UI.Page'.</ErrorMessage>
+<InnerException>System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object variable or With block variable not set.
+   at Microsoft.VisualBasic.CompilerServices.Symbols.Container..ctor(Object Instance)
+   at Microsoft.VisualBasic.CompilerServices.NewLateBinding.LateGet(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack)
+   at ASP.pages_pagespord_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) in E:\DevOps\NEW-Repository\dflower\EmotionGrowers\pages\PageSPORD.ascx:line 2976
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Page.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>2/1/2024 12:17:29 PM</DateTime>
+<SessionID>1zwvunt5mteu51wskvzqfnds</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetPage</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPage</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Error executing child request for handler 'System.Web.UI.Page'.</ErrorMessage>
+<InnerException>System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object variable or With block variable not set.
+   at Microsoft.VisualBasic.CompilerServices.Symbols.Container..ctor(Object Instance)
+   at Microsoft.VisualBasic.CompilerServices.NewLateBinding.LateGet(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack)
+   at ASP.pages_pagespord_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) in E:\DevOps\NEW-Repository\dflower\EmotionGrowers\pages\PageSPORD.ascx:line 2976
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Page.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)</InnerException>
+</Exception>
+

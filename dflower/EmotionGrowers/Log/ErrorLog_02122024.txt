@@ -1,0 +1,92 @@
+<Exception>
+<DateTime>2/12/2024 12:57:01 PM</DateTime>
+<SessionID>e0lbl0z2cv0claobeuzjdo2a</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::LoadWareHouseDDLData</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/LoadWareHouseDDLData</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/12/2024 12:57:03 PM</DateTime>
+<SessionID>e0lbl0z2cv0claobeuzjdo2a</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In Service :: ImportIncomingDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/TransferIncomingDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>String or binary data would be truncated.
+After Inserting into #TempSelectedPO
+After Inserting into #TempSelectedProduct
+1
+Selecting from temptblpodetails
+Inventory Insert
+The statement has been terminated.
+Inventory End
+Inner loop Complete</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/12/2024 12:57:03 PM</DateTime>
+<SessionID>e0lbl0z2cv0claobeuzjdo2a</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In GetGlobalNameForEmailFile</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/TransferIncomingDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/12/2024 12:57:03 PM</DateTime>
+<SessionID>e0lbl0z2cv0claobeuzjdo2a</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in VendorEmailLogs</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/TransferIncomingDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Could not find a part of the path 'd:\Attachments\EmotionGrowers\'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/12/2024 12:57:08 PM</DateTime>
+<SessionID>e0lbl0z2cv0claobeuzjdo2a</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetManualPODetailForFgrd::PageManualPO</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetManualPODetailForFgrd</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/12/2024 12:57:23 PM</DateTime>
+<SessionID>e0lbl0z2cv0claobeuzjdo2a</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetManualPODetailForFgrd::PageManualPO</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetManualPODetailForFgrd</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+

@@ -1,0 +1,56 @@
+<Exception>
+<DateTime>23-04-2024 21:06:02</DateTime>
+<SessionID>s0b1rjint3fgdkahrts1sbp3</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetSalesOrderHeaderList</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Conversion failed when converting date and/or time from character string.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>23-04-2024 21:06:03</DateTime>
+<SessionID>s0b1rjint3fgdkahrts1sbp3</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetSalesOrderHeaderListNew::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Conversion failed when converting date and/or time from character string.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>23-04-2024 21:28:12</DateTime>
+<SessionID>nv1ymmnlghqs0gyia4gwf2wg</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetSalesOrderHeaderList</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Conversion failed when converting date and/or time from character string.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>23-04-2024 21:28:15</DateTime>
+<SessionID>nv1ymmnlghqs0gyia4gwf2wg</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetSalesOrderHeaderListNew::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Conversion failed when converting date and/or time from character string.</ErrorMessage>
+</Exception>
+

@@ -1,0 +1,30 @@
+<Exception>
+<DateTime>3/12/2024 10:19:55 AM</DateTime>
+<SessionID>me4zzmxthbz54wz31cet4uxx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)</ErrorMessage>
+<InnerException>System.ComponentModel.Win32Exception (0x80004005): The network path was not found</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>3/12/2024 10:20:55 AM</DateTime>
+<SessionID>me4zzmxthbz54wz31cet4uxx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)</ErrorMessage>
+<InnerException>System.ComponentModel.Win32Exception (0x80004005): The network path was not found</InnerException>
+</Exception>
+

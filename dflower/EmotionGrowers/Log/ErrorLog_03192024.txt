@@ -1,0 +1,28 @@
+<Exception>
+<DateTime>3/19/2024 12:10:16 PM</DateTime>
+<SessionID>p551evhzd3hdicaryljl03xj</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetManualPODetailForFgrd::PageManualPO</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetManualPODetailForFgrd</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/19/2024 12:34:51 PM</DateTime>
+<SessionID>p551evhzd3hdicaryljl03xj</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ScanIncomingBarcode</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ScanIncomingBarcode</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Cannot find table 0.</ErrorMessage>
+</Exception>
+

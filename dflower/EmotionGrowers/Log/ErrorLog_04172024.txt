@@ -1,0 +1,14 @@
+<Exception>
+<DateTime>4/17/2024 5:09:34 AM</DateTime>
+<SessionID>kjdmhn5crj0khdwgxfrblt3e</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::CreateXMLForInvoiceReportDetailSQL::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Conversion from type 'DBNull' to type 'String' is not valid.</ErrorMessage>
+</Exception>
+

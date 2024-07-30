@@ -1,0 +1,28 @@
+<Exception>
+<DateTime>12/31/2023 7:44:46 AM</DateTime>
+<SessionID>isjk5g53h1wrubfi5qi3nw3x</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetSalesOrderHeaderList</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Transaction (Process ID 73) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>12/31/2023 7:44:47 AM</DateTime>
+<SessionID>isjk5g53h1wrubfi5qi3nw3x</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetSalesOrderHeaderListNew::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Transaction (Process ID 73) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.</ErrorMessage>
+</Exception>
+

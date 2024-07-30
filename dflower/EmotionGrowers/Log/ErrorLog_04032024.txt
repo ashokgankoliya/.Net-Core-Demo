@@ -1,0 +1,28 @@
+<Exception>
+<DateTime>4/3/2024 5:36:17 PM</DateTime>
+<SessionID>tyr3p2vhnehedtuajoacclkh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetPODetailsByPONumberFromSQL::PageConfirmedPO</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPODetailsByPONumberFromSQL</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>4/3/2024 11:42:48 PM</DateTime>
+<SessionID>tyr3p2vhnehedtuajoacclkh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetPODetailsByPONumberFromSQL::PageConfirmedPO</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPODetailsByPONumberFromSQL</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+

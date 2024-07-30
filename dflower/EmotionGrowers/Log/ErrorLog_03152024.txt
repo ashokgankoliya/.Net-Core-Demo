@@ -1,0 +1,229 @@
+<Exception>
+<DateTime>3/15/2024 11:25:53 AM</DateTime>
+<SessionID>h2t0emyigm3nzsya1dxwtlng</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/login.aspx</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Cannot open database "DFBloomd" requested by the login. The login failed.
+Login failed for user 'sa'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/15/2024 11:26:15 AM</DateTime>
+<SessionID>h2t0emyigm3nzsya1dxwtlng</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/login.aspx</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Cannot open database "DFBloomd" requested by the login. The login failed.
+Login failed for user 'sa'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/15/2024 11:27:16 AM</DateTime>
+<SessionID>h2t0emyigm3nzsya1dxwtlng</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/login.aspx</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Cannot open database "DFBloomd" requested by the login. The login failed.
+Login failed for user 'sa'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/15/2024 11:27:28 AM</DateTime>
+<SessionID>h2t0emyigm3nzsya1dxwtlng</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/login.aspx</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Cannot open database "DFBloomd" requested by the login. The login failed.
+Login failed for user 'sa'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/15/2024 11:29:03 AM</DateTime>
+<SessionID>h2t0emyigm3nzsya1dxwtlng</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Error converting data type varchar to bigint.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/15/2024 11:29:47 AM</DateTime>
+<SessionID>h2t0emyigm3nzsya1dxwtlng</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Error converting data type varchar to bigint.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/15/2024 11:40:13 AM</DateTime>
+<SessionID>h2t0emyigm3nzsya1dxwtlng</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Error converting data type varchar to bigint.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/15/2024 11:47:19 AM</DateTime>
+<SessionID>h2t0emyigm3nzsya1dxwtlng</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Error converting data type varchar to bigint.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/15/2024 11:47:49 AM</DateTime>
+<SessionID>h2t0emyigm3nzsya1dxwtlng</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Error converting data type varchar to bigint.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/15/2024 11:47:52 AM</DateTime>
+<SessionID>h2t0emyigm3nzsya1dxwtlng</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Error converting data type varchar to bigint.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/15/2024 11:51:09 AM</DateTime>
+<SessionID>h2t0emyigm3nzsya1dxwtlng</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetPODetailsByPONumberFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPODetailsByPONumberFromSQL</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Column 'ClosedOrder' does not belong to table Table.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/15/2024 11:51:09 AM</DateTime>
+<SessionID>h2t0emyigm3nzsya1dxwtlng</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetPODetailsByPONumberFromSQL::PageConfirmedPO</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPODetailsByPONumberFromSQL</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/15/2024 12:20:33 PM</DateTime>
+<SessionID>h2t0emyigm3nzsya1dxwtlng</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Must declare the scalar variable "@cast".</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/15/2024 12:20:50 PM</DateTime>
+<SessionID>h2t0emyigm3nzsya1dxwtlng</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryUserDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UpdateNewAWBDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Must declare the scalar variable "@cast".</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/15/2024 12:29:16 PM</DateTime>
+<SessionID>qumt3upeywwk0onlkp0grj20</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetPODetailsByPONumberFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/CheckIfBoxnumberDuplicated</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The statement terminated. The maximum recursion 100 has been exhausted before statement completion.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/15/2024 1:00:32 PM</DateTime>
+<SessionID>h2t0emyigm3nzsya1dxwtlng</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintInvenTransferReport</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>An error has occurred during report processing. (rsProcessingAborted)</ErrorMessage>
+<InnerException>Microsoft.Reporting.WebForms.ReportServerException: The feature: "The edition of Reporting Services that you are using requires that you use local SQL Server relational databases for report data sources and the report server database." is not supported in this edition of Reporting Services. (rsOperationNotSupported)</InnerException>
+</Exception>
+

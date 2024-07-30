@@ -1,0 +1,48 @@
+<Exception>
+<DateTime>3/20/2024 11:15:14 AM</DateTime>
+<SessionID>p551evhzd3hdicaryljl03xj</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/SaveInventoryDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>String or binary data would be truncated in table 'DFDirect.dbo.INVTRANS', column 'COMMENTS'. Truncated value: 'VDAY ASSOR'.
+The statement has been terminated.
+UPDATE [inven] SET FLOWER='ALS1VDAY',Name='ALSTROMERIA SEL VDAY PACK',CSREC=@QtyRec,CSSOLD=@QtySold,
+		UOM='QB',UNITSBUNCH=@unitsbunch,UNITS=@units,COST=@cost,INVENTYPE='F',BOXNUM=@boxnum,[ORDER]=@Order,
+		WH='DF',PO='10-0056304',INVOICE=@Invoice,CUST=@Cust,COMMENTS='VDAY ASSOR',COLORCODE=@ColorCode,
+		Flag='A',UPDUSER='JOSE DIAZ',UPDDATE='Mar 20 2024 11:15AM'
+		,UPDAPP='WEB',Lot=@AWB,DateRec='2024-03-20',
+		Farm='MOK',Message1='',OTHERCOST=@Othercost,HANDLING=@Handling,ANDEAN=@Andean,LANDEDCOST=@Landedcost,BRAND='MOK',PRICE='0.0000'   
+		WHERE Id='S38621'
+updating F_ORDER2 for ID=S38621
+updating VET_ for ID=S38621</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/20/2024 11:15:27 AM</DateTime>
+<SessionID>p551evhzd3hdicaryljl03xj</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateInventoryDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/SaveInventoryDetails</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>String or binary data would be truncated in table 'DFDirect.dbo.INVTRANS', column 'COMMENTS'. Truncated value: 'VALENTINE '.
+The statement has been terminated.
+UPDATE [inven] SET FLOWER='ALS1VDAY',Name='ALSTROMERIA SEL VDAY PACK',CSREC=@QtyRec,CSSOLD=@QtySold,
+		UOM='QB',UNITSBUNCH=@unitsbunch,UNITS=@units,COST=@cost,INVENTYPE='F',BOXNUM=@boxnum,[ORDER]=@Order,
+		WH='DF',PO='10-0056182',INVOICE=@Invoice,CUST=@Cust,COMMENTS='VALENTINE ',COLORCODE=@ColorCode,
+		Flag='A',UPDUSER='JOSE DIAZ',UPDDATE='Mar 20 2024 11:15AM'
+		,UPDAPP='WEB',Lot=@AWB,DateRec='2024-03-20',
+		Farm='MOK',Message1='',OTHERCOST=@Othercost,HANDLING=@Handling,ANDEAN=@Andean,LANDEDCOST=@Landedcost,BRAND='MOK',PRICE='0.0000'   
+		WHERE Id='S38620'
+updating F_ORDER2 for ID=S38620
+updating VET_ for ID=S38620</ErrorMessage>
+</Exception>
+

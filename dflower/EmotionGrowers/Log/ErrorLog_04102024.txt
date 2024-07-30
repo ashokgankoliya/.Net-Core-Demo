@@ -1,0 +1,14 @@
+<Exception>
+<DateTime>4/10/2024 4:37:46 PM</DateTime>
+<SessionID>evx5o3l1n2fyxzcksmh531bq</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetManualPOHeaderForIncomingFgrd::PageIncoming</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetManualPOHeaderForIncomingFgrd</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+

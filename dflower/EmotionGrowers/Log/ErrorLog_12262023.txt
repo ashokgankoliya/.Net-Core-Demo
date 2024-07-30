@@ -1,0 +1,214 @@
+<Exception>
+<DateTime>12/26/2023 11:19:59 AM</DateTime>
+<SessionID>5fldrkpsys1vp0tozldkci3w</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetSalesOrderDetailsList</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetSalesOrderDetailsList</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Invalid column name 'vw'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>12/26/2023 11:19:59 AM</DateTime>
+<SessionID>5fldrkpsys1vp0tozldkci3w</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetSalesOrderDetailsList::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetSalesOrderDetailsList</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Invalid column name 'vw'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>12/26/2023 11:20:00 AM</DateTime>
+<SessionID>5fldrkpsys1vp0tozldkci3w</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetPage</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPage</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Error executing child request for handler 'System.Web.UI.Page'.</ErrorMessage>
+<InnerException>System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object variable or With block variable not set.
+   at Microsoft.VisualBasic.CompilerServices.Symbols.Container..ctor(Object Instance)
+   at Microsoft.VisualBasic.CompilerServices.NewLateBinding.LateGet(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack)
+   at ASP.pages_pageordersaveprocess_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) in E:\DevOps\Repository\dflower\EmotionGrowers\pages\PageOrderSaveProcess.ascx:line 4534
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Page.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>12/26/2023 11:20:15 AM</DateTime>
+<SessionID>5fldrkpsys1vp0tozldkci3w</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetSalesOrderDetailsList</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetSalesOrderDetailsList</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Invalid column name 'vw'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>12/26/2023 11:20:16 AM</DateTime>
+<SessionID>5fldrkpsys1vp0tozldkci3w</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetSalesOrderDetailsList::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetSalesOrderDetailsList</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Invalid column name 'vw'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>12/26/2023 11:20:16 AM</DateTime>
+<SessionID>5fldrkpsys1vp0tozldkci3w</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetPage</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPage</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Error executing child request for handler 'System.Web.UI.Page'.</ErrorMessage>
+<InnerException>System.Web.HttpUnhandledException (0x80004005): Exception of type 'System.Web.HttpUnhandledException' was thrown. ---> System.NullReferenceException: Object variable or With block variable not set.
+   at Microsoft.VisualBasic.CompilerServices.Symbols.Container..ctor(Object Instance)
+   at Microsoft.VisualBasic.CompilerServices.NewLateBinding.LateGet(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack)
+   at ASP.pages_pageordersaveprocess_ascx.__Render__control1(HtmlTextWriter __w, Control parameterContainer) in E:\DevOps\Repository\dflower\EmotionGrowers\pages\PageOrderSaveProcess.ascx:line 4534
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Control.RenderChildrenInternal(HtmlTextWriter writer, ICollection children)
+   at System.Web.UI.Page.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at System.Web.HttpServerUtility.ExecuteInternal(IHttpHandler handler, TextWriter writer, Boolean preserveForm, Boolean setPreviousPage, VirtualPath path, VirtualPath filePath, String physPath, Exception error, String queryStringOverride)</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>12/26/2023 11:35:13 AM</DateTime>
+<SessionID>5fldrkpsys1vp0tozldkci3w</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetSalesOrderDetailsList</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetSalesOrderDetailsList</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Ambiguous column name 'Order'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>12/26/2023 11:35:13 AM</DateTime>
+<SessionID>5fldrkpsys1vp0tozldkci3w</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetSalesOrderDetailsList::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetSalesOrderDetailsList</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Ambiguous column name 'Order'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>12/26/2023 11:37:31 AM</DateTime>
+<SessionID>5fldrkpsys1vp0tozldkci3w</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetSalesOrderDetailsList</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetSalesOrderDetailsList</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Ambiguous column name 'Order'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>12/26/2023 11:37:31 AM</DateTime>
+<SessionID>5fldrkpsys1vp0tozldkci3w</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetSalesOrderDetailsList::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetSalesOrderDetailsList</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Ambiguous column name 'Order'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>12/26/2023 1:47:09 PM</DateTime>
+<SessionID>5fldrkpsys1vp0tozldkci3w</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetSalesOrderHeaderListNew::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>12/26/2023 2:04:56 PM</DateTime>
+<SessionID>5fldrkpsys1vp0tozldkci3w</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetArmelliniXMLLogsByOrder</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetArmelliniXMLLogsByOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Invalid column name 'CREATEDATETIME'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>12/26/2023 2:04:56 PM</DateTime>
+<SessionID>5fldrkpsys1vp0tozldkci3w</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetArmelliniXMLLogsByOrder</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetArmelliniXMLLogsByOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Invalid column name 'CREATEDATETIME'.</ErrorMessage>
+</Exception>
+

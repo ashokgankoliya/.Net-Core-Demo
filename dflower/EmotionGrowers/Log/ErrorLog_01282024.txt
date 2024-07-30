@@ -1,0 +1,98 @@
+<Exception>
+<DateTime>1/28/2024 10:59:19 AM</DateTime>
+<SessionID>l4ukfr2a4ragtpooev1lz3fe</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetViewInventoryTransactionsGrid</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetViewInventoryTransactionsGrid</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object cannot be cast from DBNull to other types.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/28/2024 10:59:25 AM</DateTime>
+<SessionID>l4ukfr2a4ragtpooev1lz3fe</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetViewInventoryTransactionsGrid</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetViewInventoryTransactionsGrid</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object cannot be cast from DBNull to other types.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/28/2024 10:59:30 AM</DateTime>
+<SessionID>l4ukfr2a4ragtpooev1lz3fe</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetViewInventoryTransactionsGrid</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetViewInventoryTransactionsGrid</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Inventory</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object cannot be cast from DBNull to other types.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/28/2024 11:00:16 AM</DateTime>
+<SessionID>l4ukfr2a4ragtpooev1lz3fe</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetLabelPrintLogsListForFgrd</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetLabelPrintLogsForFgrd</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Incorrect syntax near ')'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/28/2024 11:00:17 AM</DateTime>
+<SessionID>l4ukfr2a4ragtpooev1lz3fe</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetLabelPrintLogsForFgrd::PageIncoming</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetLabelPrintLogsForFgrd</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/28/2024 5:43:00 PM</DateTime>
+<SessionID>l4ukfr2a4ragtpooev1lz3fe</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetLabelPrintLogsListForFgrd</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetLabelPrintLogsForFgrd</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Incorrect syntax near ')'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/28/2024 5:43:00 PM</DateTime>
+<SessionID>l4ukfr2a4ragtpooev1lz3fe</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetLabelPrintLogsForFgrd::PageIncoming</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetLabelPrintLogsForFgrd</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+

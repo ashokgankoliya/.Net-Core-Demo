@@ -1,0 +1,126 @@
+<Exception>
+<DateTime>1/31/2024 3:30:22 PM</DateTime>
+<SessionID>ehu03yzjdzoh5rb4w1py2oaq</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetSalesHeaderForCurrentOrderFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetCurrentOrderForCustomer</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Error converting data type nvarchar to int.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/31/2024 3:35:36 PM</DateTime>
+<SessionID>ehu03yzjdzoh5rb4w1py2oaq</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/login.aspx</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Could not find stored procedure 'spGetUserCredentialsForValidateLogin'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/31/2024 3:35:40 PM</DateTime>
+<SessionID>ehu03yzjdzoh5rb4w1py2oaq</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/login.aspx</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Could not find stored procedure 'spGetUserCredentialsForValidateLogin'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/31/2024 3:38:09 PM</DateTime>
+<SessionID>ehu03yzjdzoh5rb4w1py2oaq</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/login.aspx</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Could not find stored procedure 'spGetUserCredentialsForValidateLogin'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/31/2024 3:43:30 PM</DateTime>
+<SessionID>ehu03yzjdzoh5rb4w1py2oaq</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/login.aspx</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Could not find stored procedure 'spGetUserCredentialsForValidateLogin'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/31/2024 3:43:35 PM</DateTime>
+<SessionID>ehu03yzjdzoh5rb4w1py2oaq</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/login.aspx</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Could not find stored procedure 'spGetUserCredentialsForValidateLogin'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/31/2024 3:43:40 PM</DateTime>
+<SessionID>ehu03yzjdzoh5rb4w1py2oaq</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/login.aspx</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Could not find stored procedure 'spGetUserCredentialsForValidateLogin'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/31/2024 3:43:45 PM</DateTime>
+<SessionID>ehu03yzjdzoh5rb4w1py2oaq</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/login.aspx</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Could not find stored procedure 'spGetUserCredentialsForValidateLogin'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/31/2024 3:43:52 PM</DateTime>
+<SessionID>ehu03yzjdzoh5rb4w1py2oaq</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/login.aspx</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Could not find stored procedure 'spGetUserCredentialsForValidateLogin'.</ErrorMessage>
+</Exception>
+

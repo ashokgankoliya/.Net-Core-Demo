@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quantity Dialog</title>
+</head>
+<body>
+    <div id="dialog">
+        <label for="quantity">Quantity to drop:</label>
+        <input type="number" id="quantity" />
+        <button id="saveButton">Save</button>
+        <button id="cancelButton">Cancel</button>
+    </div>
+
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      var quantityInput = document.getElementById("quantity");
+      var saveButton = document.getElementById("saveButton");
+      var cancelButton = document.getElementById("cancelButton");
+
+      quantityInput.focus();
+
+      // Save button click event handler
+      saveButton.addEventListener("click", function() {
+        var quantity = parseInt(quantityInput.value);
+        if (!isNaN(quantity)) {
+          console.log("Quantity to drop:", quantity);
+        }
+        destroyDialog();
+      });
+
+      // Cancel button click event handler
+      cancelButton.addEventListener("click", function() {
+        destroyDialog();
+      });
+
+      // Enter key press event handler
+      quantityInput.addEventListener("keyup", function(event) {
+        if (event.keyCode === 13) { // Enter key
+          saveButton.click();
+        }
+      });
+
+      // Function to destroy the dialog
+      function destroyDialog() {
+        var dialog = document.getElementById("dialog");
+        dialog.parentNode.removeChild(dialog);
+      }
+    });
+    </script>
+</body>
+</html>

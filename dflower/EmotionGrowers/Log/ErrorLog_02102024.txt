@@ -1,0 +1,126 @@
+<Exception>
+<DateTime>2/10/2024 3:08:31 PM</DateTime>
+<SessionID>e0lbl0z2cv0claobeuzjdo2a</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateMAWBAndHAWB</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/UpdateMAWBAndHAWB</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=ConfirmedPOs</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function 'spUpdateAWBInfoinPOTables' expects parameter '@Mawb', which was not supplied.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/10/2024 3:08:46 PM</DateTime>
+<SessionID>e0lbl0z2cv0claobeuzjdo2a</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateMAWBAndHAWB</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/UpdateMAWBAndHAWB</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=ConfirmedPOs</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function 'spUpdateAWBInfoinPOTables' expects parameter '@Mawb', which was not supplied.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/10/2024 3:10:47 PM</DateTime>
+<SessionID>e0lbl0z2cv0claobeuzjdo2a</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateMAWBAndHAWB</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UpdateMAWBAndHAWB</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=ConfirmedPOs</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function 'spUpdateAWBInfoinPOTables' expects parameter '@Mawb', which was not supplied.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/10/2024 3:13:47 PM</DateTime>
+<SessionID>e0lbl0z2cv0claobeuzjdo2a</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in UpdateMAWBAndHAWB</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UpdateMAWBAndHAWB</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=ConfirmedPOs</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function 'spUpdateAWBInfoinPOTables' expects parameter '@MAWB', which was not supplied.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/10/2024 4:29:49 PM</DateTime>
+<SessionID>e0lbl0z2cv0claobeuzjdo2a</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetConfirmedPOList::PageConfirmedPO</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetConfirmedPOList</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=ConfirmedPOs</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/10/2024 4:55:13 PM</DateTime>
+<SessionID>e0lbl0z2cv0claobeuzjdo2a</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetPODetailsByPONumberFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPODetailsByPONumberFromSQL</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Column 'ClosedOrder' does not belong to table Table.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/10/2024 4:55:14 PM</DateTime>
+<SessionID>e0lbl0z2cv0claobeuzjdo2a</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetPODetailsByPONumberFromSQL::PageConfirmedPO</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPODetailsByPONumberFromSQL</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/10/2024 4:55:24 PM</DateTime>
+<SessionID>e0lbl0z2cv0claobeuzjdo2a</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetPODetailsByPONumberFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPODetailsByPONumberFromSQL</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Column 'ClosedOrder' does not belong to table Table.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/10/2024 4:55:24 PM</DateTime>
+<SessionID>e0lbl0z2cv0claobeuzjdo2a</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetPODetailsByPONumberFromSQL::PageConfirmedPO</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPODetailsByPONumberFromSQL</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+

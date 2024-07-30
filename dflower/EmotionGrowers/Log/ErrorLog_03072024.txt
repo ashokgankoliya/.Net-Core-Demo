@@ -1,0 +1,30 @@
+<Exception>
+<DateTime>3/7/2024 6:12:28 PM</DateTime>
+<SessionID>me4zzmxthbz54wz31cet4uxx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>An error has occurred during report processing. (rsProcessingAborted)</ErrorMessage>
+<InnerException>Microsoft.Reporting.WebForms.ReportServerException: The feature: "The edition of Reporting Services that you are using requires that you use local SQL Server relational databases for report data sources and the report server database." is not supported in this edition of Reporting Services. (rsOperationNotSupported)</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>3/7/2024 6:22:45 PM</DateTime>
+<SessionID>me4zzmxthbz54wz31cet4uxx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>An error has occurred during report processing. (rsProcessingAborted)</ErrorMessage>
+<InnerException>Microsoft.Reporting.WebForms.ReportServerException: The feature: "The edition of Reporting Services that you are using requires that you use local SQL Server relational databases for report data sources and the report server database." is not supported in this edition of Reporting Services. (rsOperationNotSupported)</InnerException>
+</Exception>
+

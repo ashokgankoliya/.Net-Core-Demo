@@ -1,0 +1,310 @@
+<Exception>
+<DateTime>1/9/2024 12:35:54 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In InsertEliteShippingLabelDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UploadNewDvFile</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Could not find stored procedure 'spGetNewDvOrderInfo'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 12:35:55 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In UploadNewDVFile</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UploadNewDvFile</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Cannot bulk load because the file "E:\DevOps\Repository\dflower\EmotionGrowers\temp\rcvlbl_MS000100993.csv" could not be opened. Operating system error code 3(The system cannot find the path specified.).</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 12:38:19 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In InsertEliteShippingLabelDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UploadNewDvFile</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Could not find stored procedure 'spGetNewDvOrderInfo'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 12:38:19 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In UploadNewDVFile</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UploadNewDvFile</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Cannot bulk load because the file "E:\DevOps\Repository\dflower\EmotionGrowers\temp\rcvlbl_MS000100993.csv" could not be opened. Operating system error code 3(The system cannot find the path specified.).</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 12:41:01 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In InsertEliteShippingLabelDetails</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UploadNewDvFile</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Could not find stored procedure 'spGetNewDvOrderInfo'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 12:41:01 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In UploadNewDVFile</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UploadNewDvFile</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Cannot bulk load because the file "E:\DevOps\Repository\dflower\EmotionGrowers\temp\rcvlbl_MS000100993.csv" could not be opened. Operating system error code 3(The system cannot find the path specified.).</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 1:14:19 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintDVLabels</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>An error has occurred during report processing. (rsProcessingAborted)</ErrorMessage>
+<InnerException>Microsoft.Reporting.WebForms.ReportServerException: The feature: "The edition of Reporting Services that you are using requires that you use local SQL Server relational databases for report data sources and the report server database." is not supported in this edition of Reporting Services. (rsOperationNotSupported)</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 5:01:32 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintSalesSummaryReport</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>An error has occurred during report processing. (rsProcessingAborted)</ErrorMessage>
+<InnerException>Microsoft.Reporting.WebForms.ReportServerException: The feature: "The edition of Reporting Services that you are using requires that you use local SQL Server relational databases for report data sources and the report server database." is not supported in this edition of Reporting Services. (rsOperationNotSupported)</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 5:02:54 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetSalesOrderHeaderList</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The source contains no DataRows.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 5:02:55 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetSalesOrderHeaderListNew::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The source contains no DataRows.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 5:11:14 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetSalesOrderHeaderList</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The source contains no DataRows.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 5:11:14 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetSalesOrderHeaderListNew::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The source contains no DataRows.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 5:20:08 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetSalesOrderHeaderList</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The source contains no DataRows.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 5:20:42 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetSalesOrderHeaderListNew::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The source contains no DataRows.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 5:27:31 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetSalesOrderHeaderList</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The source contains no DataRows.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 5:27:31 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetSalesOrderHeaderListNew::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The source contains no DataRows.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 5:32:07 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetSalesOrderHeaderList</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The source contains no DataRows.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 5:37:01 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetSalesOrderHeaderListNew::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The source contains no DataRows.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 5:40:02 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetSalesOrderHeaderList</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The source contains no DataRows.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 5:43:09 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetSalesOrderHeaderListNew::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The source contains no DataRows.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 5:49:13 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetSalesOrderHeaderList</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The source contains no DataRows.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/9/2024 5:49:14 PM</DateTime>
+<SessionID>5yp3jb2azhzz4b4aub13fdtx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetSalesOrderHeaderListNew::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/GetSalesOrderHeaderListNew</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The source contains no DataRows.</ErrorMessage>
+</Exception>
+

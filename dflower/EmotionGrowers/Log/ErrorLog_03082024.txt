@@ -1,0 +1,123 @@
+<Exception>
+<DateTime>3/8/2024 6:21:44 AM</DateTime>
+<SessionID>me4zzmxthbz54wz31cet4uxx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Value cannot be null.
+Parameter name: parameters</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/8/2024 6:23:09 AM</DateTime>
+<SessionID>me4zzmxthbz54wz31cet4uxx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Value cannot be null.
+Parameter name: parameters</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/8/2024 6:30:54 AM</DateTime>
+<SessionID>me4zzmxthbz54wz31cet4uxx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Value cannot be null.
+Parameter name: parameters</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/8/2024 6:36:19 AM</DateTime>
+<SessionID>me4zzmxthbz54wz31cet4uxx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Value cannot be null.
+Parameter name: parameters</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>3/8/2024 6:40:07 AM</DateTime>
+<SessionID>me4zzmxthbz54wz31cet4uxx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>An error has occurred during report processing. (rsProcessingAborted)</ErrorMessage>
+<InnerException>Microsoft.Reporting.WebForms.ReportServerException: The feature: "The edition of Reporting Services that you are using requires that you use local SQL Server relational databases for report data sources and the report server database." is not supported in this edition of Reporting Services. (rsOperationNotSupported)</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>3/8/2024 8:14:28 AM</DateTime>
+<SessionID>me4zzmxthbz54wz31cet4uxx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>An error has occurred during report processing. (rsProcessingAborted)</ErrorMessage>
+<InnerException>Microsoft.Reporting.WebForms.ReportServerException: Cannot create a connection to data source 'BloomsReportSource'. (rsErrorOpeningConnection) ---> Microsoft.Reporting.WebForms.ReportServerException: For more information about this error navigate to the report server on the local server machine, or enable remote errors
+   --- End of inner exception stack trace ---</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>3/8/2024 8:15:35 AM</DateTime>
+<SessionID>me4zzmxthbz54wz31cet4uxx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>An error has occurred during report processing. (rsProcessingAborted)</ErrorMessage>
+<InnerException>Microsoft.Reporting.WebForms.ReportServerException: Cannot create a connection to data source 'BloomsReportSource'. (rsErrorOpeningConnection) ---> Microsoft.Reporting.WebForms.ReportServerException: For more information about this error navigate to the report server on the local server machine, or enable remote errors
+   --- End of inner exception stack trace ---</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>3/8/2024 10:14:18 AM</DateTime>
+<SessionID>me4zzmxthbz54wz31cet4uxx</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>An error has occurred during report processing. (rsProcessingAborted)</ErrorMessage>
+<InnerException>Microsoft.Reporting.WebForms.ReportServerException: Cannot create a connection to data source 'BloomsReportSource'. (rsErrorOpeningConnection) ---> Microsoft.Reporting.WebForms.ReportServerException: For more information about this error navigate to the report server on the local server machine, or enable remote errors
+   --- End of inner exception stack trace ---</InnerException>
+</Exception>
+

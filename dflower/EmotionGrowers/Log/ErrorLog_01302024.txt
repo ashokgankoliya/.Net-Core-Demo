@@ -1,0 +1,43 @@
+<Exception>
+<DateTime>1/30/2024 5:57:15 AM</DateTime>
+<SessionID>l4ukfr2a4ragtpooev1lz3fe</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::LoadWareHouseDDLData</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/LoadWareHouseDDLData</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/30/2024 8:58:06 AM</DateTime>
+<SessionID>l4ukfr2a4ragtpooev1lz3fe</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in SaveInvoiceHistory</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/InsertOrderHistory</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Sales</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function 'SPF_IHistoryInsert' expects parameter '@Person', which was not supplied.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/30/2024 9:26:37 AM</DateTime>
+<SessionID>l4ukfr2a4ragtpooev1lz3fe</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintSPReports</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>An error has occurred during report processing. (rsProcessingAborted)</ErrorMessage>
+<InnerException>Microsoft.Reporting.WebForms.ReportServerException: The feature: "The edition of Reporting Services that you are using requires that you use local SQL Server relational databases for report data sources and the report server database." is not supported in this edition of Reporting Services. (rsOperationNotSupported)</InnerException>
+</Exception>
+

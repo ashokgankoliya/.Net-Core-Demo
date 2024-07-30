@@ -1,0 +1,199 @@
+<Exception>
+<DateTime>2/29/2024 10:09:25 AM</DateTime>
+<SessionID>kocrtbpjqxz5weekzbalra2m</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)</ErrorMessage>
+<InnerException>System.ComponentModel.Win32Exception (0x80004005): The network path was not found</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>2/29/2024 10:10:51 AM</DateTime>
+<SessionID>kocrtbpjqxz5weekzbalra2m</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)</ErrorMessage>
+<InnerException>System.ComponentModel.Win32Exception (0x80004005): The network path was not found</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>2/29/2024 10:13:00 AM</DateTime>
+<SessionID>kocrtbpjqxz5weekzbalra2m</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In ValidateLogin</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/ValidateLogin</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)</ErrorMessage>
+<InnerException>System.ComponentModel.Win32Exception (0x80004005): The network path was not found</InnerException>
+</Exception>
+
+<Exception>
+<DateTime>2/29/2024 1:58:27 PM</DateTime>
+<SessionID>kocrtbpjqxz5weekzbalra2m</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetPODetailsByPONumberFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/CheckIfBoxnumberDuplicated</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function spGetPODetailsForConfirm has too many arguments specified.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/29/2024 1:58:35 PM</DateTime>
+<SessionID>kocrtbpjqxz5weekzbalra2m</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetPODetailsByPONumberFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/CheckIfBoxnumberDuplicated</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function spGetPODetailsForConfirm has too many arguments specified.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/29/2024 1:58:38 PM</DateTime>
+<SessionID>kocrtbpjqxz5weekzbalra2m</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetPODetailsByPONumberFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/CheckIfBoxnumberDuplicated</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function spGetPODetailsForConfirm has too many arguments specified.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/29/2024 1:58:42 PM</DateTime>
+<SessionID>kocrtbpjqxz5weekzbalra2m</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetPODetailsByPONumberFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/CheckIfBoxnumberDuplicated</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function spGetPODetailsForConfirm has too many arguments specified.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/29/2024 2:00:31 PM</DateTime>
+<SessionID>kocrtbpjqxz5weekzbalra2m</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetPODetailsByPONumberFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/CheckIfBoxnumberDuplicated</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function spGetPODetailsForConfirm has too many arguments specified.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/29/2024 2:01:29 PM</DateTime>
+<SessionID>kocrtbpjqxz5weekzbalra2m</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetPODetailsByPONumberFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/CheckIfBoxnumberDuplicated</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function spGetPODetailsForConfirm has too many arguments specified.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/29/2024 2:02:00 PM</DateTime>
+<SessionID>kocrtbpjqxz5weekzbalra2m</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetPODetailsByPONumberFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/CheckIfBoxnumberDuplicated</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function spGetPODetailsForConfirm has too many arguments specified.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/29/2024 2:02:29 PM</DateTime>
+<SessionID>kocrtbpjqxz5weekzbalra2m</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetPODetailsByPONumberFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/CheckIfBoxnumberDuplicated</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function spGetPODetailsForConfirm has too many arguments specified.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/29/2024 2:05:08 PM</DateTime>
+<SessionID>kocrtbpjqxz5weekzbalra2m</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetPODetailsByPONumberFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/CheckIfBoxnumberDuplicated</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function spGetPODetailsForConfirm has too many arguments specified.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/29/2024 2:05:15 PM</DateTime>
+<SessionID>kocrtbpjqxz5weekzbalra2m</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetPODetailsByPONumberFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/CheckIfBoxnumberDuplicated</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function spGetPODetailsForConfirm has too many arguments specified.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/29/2024 2:08:26 PM</DateTime>
+<SessionID>kocrtbpjqxz5weekzbalra2m</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetPODetailsByPONumberFromSQL</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/CheckIfBoxnumberDuplicated</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function spGetPODetailsForConfirm has too many arguments specified.</ErrorMessage>
+</Exception>
+

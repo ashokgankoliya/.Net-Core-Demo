@@ -1,0 +1,70 @@
+<Exception>
+<DateTime>4/4/2024 8:58:44 AM</DateTime>
+<SessionID>tyr3p2vhnehedtuajoacclkh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>This report requires a default or user-defined value for the report parameter 'ShipperNo'. To run or subscribe to this report, you must provide a parameter value. (rsReportParameterValueNotSet)</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>4/4/2024 8:58:46 AM</DateTime>
+<SessionID>tyr3p2vhnehedtuajoacclkh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In Service::UploadFBXML::PageOrder</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>The remote server returned an error: (403) Forbidden.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>4/4/2024 9:16:56 AM</DateTime>
+<SessionID>tyr3p2vhnehedtuajoacclkh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>This report requires a default or user-defined value for the report parameter 'ShipperNo'. To run or subscribe to this report, you must provide a parameter value. (rsReportParameterValueNotSet)</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>4/4/2024 9:16:57 AM</DateTime>
+<SessionID>tyr3p2vhnehedtuajoacclkh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>This report requires a default or user-defined value for the report parameter 'ShipperNo'. To run or subscribe to this report, you must provide a parameter value. (rsReportParameterValueNotSet)</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>4/4/2024 9:25:05 AM</DateTime>
+<SessionID>tyr3p2vhnehedtuajoacclkh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>This report requires a default or user-defined value for the report parameter 'ShipperNo'. To run or subscribe to this report, you must provide a parameter value. (rsReportParameterValueNotSet)</ErrorMessage>
+</Exception>
+

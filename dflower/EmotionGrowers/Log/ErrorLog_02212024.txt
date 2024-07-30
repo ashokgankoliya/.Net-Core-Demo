@@ -1,0 +1,28 @@
+<Exception>
+<DateTime>2/21/2024 8:36:10 AM</DateTime>
+<SessionID>0lbcax42oofxxcmxdob0js1f</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In PrintGPMCalcToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Procedure or function spGPMCalc has too many arguments specified.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/21/2024 8:36:11 AM</DateTime>
+<SessionID>0lbcax42oofxxcmxdob0js1f</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GPMToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+

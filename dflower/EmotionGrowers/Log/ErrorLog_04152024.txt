@@ -1,0 +1,116 @@
+<Exception>
+<DateTime>4/15/2024 9:36:33 AM</DateTime>
+<SessionID>evx5o3l1n2fyxzcksmh531bq</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Value cannot be null.
+Parameter name: parameters</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>4/15/2024 3:07:04 PM</DateTime>
+<SessionID>evx5o3l1n2fyxzcksmh531bq</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Value cannot be null.
+Parameter name: parameters</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>4/15/2024 3:10:14 PM</DateTime>
+<SessionID>evx5o3l1n2fyxzcksmh531bq</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Value cannot be null.
+Parameter name: parameters</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>4/15/2024 3:26:08 PM</DateTime>
+<SessionID>evx5o3l1n2fyxzcksmh531bq</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Parameter 'WallMartSellByCaption' does not exist on this report</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>4/15/2024 3:31:00 PM</DateTime>
+<SessionID>kjdmhn5crj0khdwgxfrblt3e</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Parameter 'WallMartSellByCaption' does not exist on this report</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>4/15/2024 3:31:15 PM</DateTime>
+<SessionID>kjdmhn5crj0khdwgxfrblt3e</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Parameter 'WallMartSellByCaption' does not exist on this report</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>4/15/2024 3:32:21 PM</DateTime>
+<SessionID>kjdmhn5crj0khdwgxfrblt3e</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Parameter 'WallMartSellByCaption' does not exist on this report</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>4/15/2024 3:34:47 PM</DateTime>
+<SessionID>kjdmhn5crj0khdwgxfrblt3e</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::ExportToPdf</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintMultipleReportsInOrder</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Order</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Value cannot be null.
+Parameter name: parameters</ErrorMessage>
+</Exception>
+

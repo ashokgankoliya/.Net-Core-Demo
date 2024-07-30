@@ -1,0 +1,70 @@
+<Exception>
+<DateTime>2/5/2024 6:13:37 AM</DateTime>
+<SessionID>kq23qujlctixe54ffs0yxwi5</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetPODetailsByPONumberFromSQL::PageConfirmedPO</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetPODetailsByPONumberFromSQL</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=PO</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/5/2024 1:01:49 PM</DateTime>
+<SessionID>kq23qujlctixe54ffs0yxwi5</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetConfirmedPOListForGrid</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetConfirmedPOList</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=ConfirmedPOs</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Incorrect syntax near the keyword 'Order'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/5/2024 1:02:04 PM</DateTime>
+<SessionID>kq23qujlctixe54ffs0yxwi5</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetConfirmedPOListForGrid</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetConfirmedPOList</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=ConfirmedPOs</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Incorrect syntax near the keyword 'Order'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/5/2024 1:02:32 PM</DateTime>
+<SessionID>kq23qujlctixe54ffs0yxwi5</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in GetConfirmedPOListForGrid</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetConfirmedPOList</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=ConfirmedPOs</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Incorrect syntax near the keyword 'Order'.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>2/5/2024 1:25:36 PM</DateTime>
+<SessionID>kq23qujlctixe54ffs0yxwi5</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GetConfirmedPOList::PageConfirmedPO</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/GetConfirmedPOList</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=ConfirmedPOs</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+

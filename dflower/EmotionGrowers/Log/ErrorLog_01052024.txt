@@ -1,0 +1,32 @@
+<Exception>
+<DateTime>1/5/2024 7:25:39 AM</DateTime>
+<SessionID>3ekjknugzph3rvzwr1hklhdv</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In UploadNewDVFile</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UploadNewDvFile</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Bulk load: An unexpected end of file was encountered in the data file.
+The OLE DB provider "BULK" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot fetch a row from OLE DB provider "BULK" for linked server "(null)".</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/5/2024 10:50:27 AM</DateTime>
+<SessionID>3ekjknugzph3rvzwr1hklhdv</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In UploadNewDVFile</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/UploadNewDvFile</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Incoming</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Bulk load: An unexpected end of file was encountered in the data file.
+The OLE DB provider "BULK" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Cannot fetch a row from OLE DB provider "BULK" for linked server "(null)".</ErrorMessage>
+</Exception>
+

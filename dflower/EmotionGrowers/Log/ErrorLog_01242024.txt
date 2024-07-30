@@ -1,0 +1,224 @@
+<Exception>
+<DateTime>1/24/2024 10:34:17 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In PrintGPMCalcToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Input string was not in a correct format.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/24/2024 10:34:18 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GPMToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/24/2024 10:40:06 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In PrintGPMCalcToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Input string was not in a correct format.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/24/2024 10:40:06 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GPMToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/24/2024 11:23:13 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In PrintGPMCalcToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Input string was not in a correct format.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/24/2024 11:23:14 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GPMToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/24/2024 11:23:37 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In PrintGPMCalcToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Input string was not in a correct format.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/24/2024 11:23:37 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GPMToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/24/2024 11:26:08 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In PrintGPMCalcToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Input string was not in a correct format.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/24/2024 11:26:09 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GPMToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/24/2024 11:27:05 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In PrintGPMCalcToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Input string was not in a correct format.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/24/2024 11:27:06 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GPMToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/24/2024 11:30:35 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In PrintGPMCalcToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Input string was not in a correct format.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/24/2024 11:30:36 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GPMToExcel</CustomMessage>
+<Info>
+<URL>localhost/dflower/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/dflower/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/24/2024 11:35:27 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error In PrintGPMCalcToExcel</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Input string was not in a correct format.</ErrorMessage>
+</Exception>
+
+<Exception>
+<DateTime>1/24/2024 11:35:32 AM</DateTime>
+<SessionID>yijdurjrfpxmtnzngtezechh</SessionID>
+<Summary>An unhandled exception occured</Summary>
+<CustomMessage>Error in Service::GPMToExcel</CustomMessage>
+<Info>
+<URL>localhost/BloomService.asmx/PrintGPMCalcToExcel</URL>
+<HostIP>::1</HostIP>
+<ReffererURL>localhost/DefaultUser.aspx?Page=Reports</ReffererURL>
+</Info>
+<User>Guest</User>
+<ErrorMessage>Object reference not set to an instance of an object.</ErrorMessage>
+</Exception>
+
